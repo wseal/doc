@@ -1,3 +1,3 @@
 # learn note
 ### chatgpt
-- token:LoF+wDEICnU3RJtjlbqZ/Cc3NHCocVmQM4QT/AnoMa7gRvFlsRdSp/Zj9J7JmQFD/pHuW/RILOv8RjphujdpZPgukfUP1OK+LfajL1EfWdgvGj89nNLhWbRJSUxhQrgAqjGviIlJCAM=
+- token:Ek0TwzwJr/oowqeY71rEzDOPG49XUz9G/eS98pFAY2SGlyIurjEoRs6S0Nv0UwsjCshSEmhXsGZOw0CKSPJp4WfWPl1AW+l0axZ1dn5ZmEb9oNJEBBZ0UJUTOSHa6lhHdB3VRPoQeHg=
