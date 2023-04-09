@@ -16,3 +16,20 @@
 
   What else can we make with rocks? We can make stone walls, houses and lots of other thins
   Try to think of some more on your own.
+
+- 7 Let's Ride into Space
+  As as child, Sally Ride wanted to be an astronaut. It was her dream to fly through space.
+  There was just one problem. At that time, all the astronauts in American were men.
+  When Sally grew up, she studied science. She wanted to learn all about outer sapce.
+  She studied the planets, like Earth. Sally also learned about the stars.
+  Then something wonderful happened. Sally read in the newspaper that new astronauts were
+  needed. She wrote a letter and was picked. 
+
+  It's not easy to be an astronaut. Sally knew it would be hard work. She had many weeks of
+  training. During training, Sally learned about the space shuttle. She also learned what to do during the flight into space.
+
+  At last Sally finished her training and was ready. She flew on the space shuttle Challenger. While in space , she helped put out satellites. These machines go around the
+  Earth and take pictures.
+
+  Sally became the first American woman to go into space. Many people thinks she is special
+  because of this. But all Sally cares about is that her dream came true.
