@@ -1,6 +1,6 @@
 import "./LogItem.css";
 
-const LogItem = () => {
+const LogItem = (props) => {
   return (
     <div className="item">
       {/*  */}
@@ -11,8 +11,8 @@ const LogItem = () => {
 
       {/*  */}
       <div className="content">
-        <h2 className="desc">learn</h2>
-        <div className="">50 min</div>
+        <h2 className="desc">{props.desc}</h2>
+        <div className="">{props.time}min</div>
       </div>
     </div>
   );
