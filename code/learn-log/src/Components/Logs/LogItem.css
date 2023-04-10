@@ -1,0 +1,46 @@
+.item {
+  background-color: #FCBF49;
+  border-radius: 10px;
+  display: flex;
+  margin: 16px 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.date {
+  width: 90px;
+  /* background-color: ; */
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.month {
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #D62828;
+}
+
+.day {
+  height: 60px;
+  line-height: 60px;
+  font-size: 50px;
+  background-color: #DFDFDF;
+}
+
+.content {
+  /* background-color: ; */
+  flex: auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 16px;
+  color: #194849;
+}
+
+.time {
+  color: #D62828;
+}
