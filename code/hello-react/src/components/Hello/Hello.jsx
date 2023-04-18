@@ -1,3 +1,5 @@
+import hello from './Hello.module.css'
+
 export default function Hello() {
-  return <div>Hello Componse</div>
+  return <div class={hello.title}>Hello Componse</div>
 }
