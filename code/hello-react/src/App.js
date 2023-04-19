@@ -1,3 +1,5 @@
+import { Component } from "react";
+
 import "./App.css";
 
 // import Hello from "./components/Hello/Hello";
@@ -7,12 +9,25 @@ import Footer from "./components/Footer";
 
 // create and export
 
-export default function App() {
-  return (
-    <div className="App">
-      <Header />
-      <List />
-      <Footer />
-    </div>
-  );
+export default class App extends Component {
+  state = {
+    todos: [
+      { id: "001", name: "java", done: true },
+      { id: "002", name: "golang", done: true },
+      { id: "003", name: "cocos", done: true },
+    ],
+  };
+
+  render(h) {
+    const { todos } = this.state;
+    return (
+      <div className="todo-container">
+        <div className="todo-wrap">
+          <Header />
+          <List todos={todos} />
+          <Footer />
+        </div>
+      </div>
+    );
+  }
 }

@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
+
+/* curl --location --request POST 'http://127.0.0.1:6063/v1/internal/payout_rollback?order_id=LOUT16810285440528496cbb&admin=develop' */
+
+/* curl --location --request POST 'http://127.0.0.1:6063/v1/internal/user_settlement?uid=138&pay_account_id=airpay1&amount=46300&admin_user=develop' */

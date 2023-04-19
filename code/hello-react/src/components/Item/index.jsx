@@ -2,16 +2,19 @@ import React from 'react';
 
 import './index.css'
 
-const Index = () => {
-  return (
-    <li>
-        <label>
-          <input type="checkbox" />
-          <span>xxxx</span>
-        </label>
-        <button className='btn btn-danger' style={{display: 'none'}}>Del</button>
-      </li>
-  );
-}
+export default class Index extends React.Component {
 
-export default Index;
+  render() {
+    const {id, name, done} = this.props;
+
+    return (
+      <li>
+          <label>
+            <input type="checkbox" defaultChecked={done} />
+            <span>{id}-{name}</span>
+          </label>
+          <button className='btn btn-danger' style={{display: 'none'}}>Del</button>
+        </li>
+    );
+  }
+}
