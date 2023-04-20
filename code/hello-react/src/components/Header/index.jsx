@@ -1,10 +1,15 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 import {nanoid} from 'nanoid'
 
 import './index.css'
 
 export default class Index extends React.Component {
+
+  static propTypes = {
+    addTodo: PropTypes.func.isRequired
+  }
 
   handleKeyUp = (event) => {
     const {keyCode, target} = event
