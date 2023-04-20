@@ -4,12 +4,12 @@ import Item from '../Item'
 import './index.css'
 
 const Index = (props) => {
-const{todos} = props
+const{todos, updateTodo} = props
   return (
     <ul className='todo-main'>
       {
         todos.map((todo)=>{
-          return <Item key={todo.id} {...todo} />
+          return <Item key={todo.id} {...todo} updateTodo={updateTodo} />
         })
       }
     </ul>
