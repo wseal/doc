@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## TODO List
 
-In the project directory, you can run:
+- 拆分组件、实现静态组建，注意className、style的语法
+- 动态初始化数据、列表
+  - 组件自己使用，数据放在组件自身
+  - 多个组件共用，放在组件共同的祖先节点
+- 父子组件间通信
+  - parent->>childre: use props 
+  - children ->> parent: use callback
+- defaultChecked vs checked
+- defaultValue vs value
 
 ### `npm start`
 
