@@ -1,15 +1,28 @@
 import React from "react";
-import PropTypes from "prop-types";
+import PubSub from "pubsub-js";
+// import PropTypes from "prop-types";
 
 import "./index.css";
 
 export default class List extends React.Component {
-  PropTypes = {
-    users: PropTypes.array.isRequired,
-  };
+  // PropTypes = {
+  //   users: PropTypes.array.isRequired,
+  // };
+
+  state = { isLoading: false, isFirst: true, users: [], err: null };
+
+  componentDidMount() {
+    this.token = PubSub.subscribe("Search", (msg, data) => {
+      this.setState({ ...data });
+    });
+  }
+
+  componentWillUnmount() {
+    PubSub.unsubscribe(this.token);
+  }
 
   render() {
-    const { users, isFirst, isLoading, err } = this.props;
+    const { users, isFirst, isLoading, err } = this.state;
     return (
       <div className="row">
         {isFirst ? (
