@@ -9,22 +9,31 @@ export default class List extends React.Component {
   };
 
   render() {
+    const { users, isFirst, isLoading, err } = this.props;
     return (
       <div className="row">
-        {this.props.users.map((item) => {
-          return (
-            <div key={item.id} className="card">
-              <a href={item.html_url}>
-                <img
-                  alt="header"
-                  src={item.avatar_url}
-                  style={{ width: "100px" }}
-                />
-              </a>
-              <p className="card-text">{item.login}</p>
-            </div>
-          );
-        })}
+        {isFirst ? (
+          <h2>Welcome, Please Input Keyword</h2>
+        ) : isLoading ? (
+          <h2>Loading....</h2>
+        ) : err ? (
+          <h2 style={{ color: "red" }}>{err}</h2>
+        ) : (
+          users.map((item) => {
+            return (
+              <div key={item.id} className="card">
+                <a href={item.html_url}>
+                  <img
+                    alt="header"
+                    src={item.avatar_url}
+                    style={{ width: "100px" }}
+                  />
+                </a>
+                <p className="card-text">{item.login}</p>
+              </div>
+            );
+          })
+        )}
       </div>
     );
   }

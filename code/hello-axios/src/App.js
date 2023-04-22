@@ -6,17 +6,17 @@ import List from "./components/List";
 import "./App.css";
 
 export default class App extends React.Component {
-  state = { users: [] };
+  state = { isLoading: false, isFirst: true, users: [], err: null };
 
-  addUsers = (users) => {
-    this.setState({ users });
+  updateState = (stat) => {
+    this.setState({ ...stat });
   };
 
   render() {
     return (
       <div className="container">
-        <Search addUsers={this.addUsers} />
-        <List users={this.state.users} />
+        <Search updateState={this.updateState} />
+        <List {...this.state} />
       </div>
     );
   }
