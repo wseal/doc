@@ -5,7 +5,13 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Head from "./pages/Head";
 
+import "./App.css";
+
 const App = () => {
+  function computeClassName({ isActive }) {
+    return isActive ? "list-group-item change-route-color" : "list-group-item";
+  }
+
   return (
     <div>
       <Head />
@@ -13,11 +19,11 @@ const App = () => {
         <div className="col-xs-2 col-xs-offset-2">
           <div className="list-group">
             {/* 路由链接 */}
-            <NavLink className="list-group-item" to="/about">
+            <NavLink className={computeClassName} to="/about">
               About
             </NavLink>
 
-            <NavLink className="list-group-item" to="home">
+            <NavLink className={computeClassName} to="home">
               Home
             </NavLink>
           </div>
