@@ -29,8 +29,10 @@ export default function Message() {
       <ul>
         {messages.map((m) => {
           return (
-            <li>
-              <Link to="detail">message001</Link>
+            <li key={m.id}>
+              <Link to={`detail/${m.id}/${m.title}/${m.contnt}`}>
+                message001
+              </Link>
             </li>
           );
         })}
