@@ -1,27 +1,13 @@
 import React from "react";
-import { NavLink, Navigate, useRoutes } from "react-router-dom";
+import { NavLink, useRoutes } from "react-router-dom";
 
-import Home from "./pages/Home";
-import About from "./pages/About";
+import route from "./routes";
 import Head from "./pages/Head";
 
 import "./App.css";
 
 const App = () => {
-  const element = useRoutes([
-    {
-      path: "/home",
-      element: <Home />,
-    },
-    {
-      path: "/about",
-      element: <About />,
-    },
-    {
-      path: "/home",
-      element: <Navigate to="/about" />,
-    },
-  ]);
+  const element = useRoutes(route);
 
   function computeClassName({ isActive }) {
     return isActive ? "list-group-item change-route-color" : "list-group-item";
