@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink, Outlet } from "react-router-dom";
 
 export default function Home() {
   return (
@@ -7,21 +8,19 @@ export default function Home() {
       <div>
         <ul className="nav nav-tabs">
           <li>
-            <a className="list-group-item active" href="./home-news.html">
+            <NavLink className="list-group-item" to="news">
               News
-            </a>
+            </NavLink>
           </li>
           <li>
-            <a className="list-group-item " href="./home-message.html">
+            <NavLink className="list-group-item " to="message">
               Message
-            </a>
+            </NavLink>
           </li>
         </ul>
-        <ul>
-          <li>news001</li>
-          <li>news002</li>
-          <li>news003</li>
-        </ul>
+
+        {/* setting router components postion */}
+        <Outlet />
       </div>
     </div>
   );
