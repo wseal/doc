@@ -31,7 +31,8 @@ export default function Message() {
           return (
             <li key={m.id}>
               <Link
-                to={`detail?id=${m.id}&title=${m.title}&content=${m.contnt}`}
+                to="detail"
+                state={{ id: m.id, title: m.title, content: m.contnt }}
               >
                 {m.title}
               </Link>
