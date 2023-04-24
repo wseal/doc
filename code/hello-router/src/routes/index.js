@@ -4,6 +4,7 @@ import About from "../pages/About";
 import Home from "../pages/Home";
 import Message from "../pages/Message";
 import News from "../pages/News";
+import Detail from "../pages/Detail";
 
 const route = [
   {
@@ -17,6 +18,12 @@ const route = [
       {
         path: "message",
         element: <Message />,
+        children: [
+          {
+            path: "detail",
+            element: <Detail />,
+          },
+        ],
       },
     ],
   },
