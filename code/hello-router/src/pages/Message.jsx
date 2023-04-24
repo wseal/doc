@@ -30,8 +30,10 @@ export default function Message() {
         {messages.map((m) => {
           return (
             <li key={m.id}>
-              <Link to={`detail/${m.id}/${m.title}/${m.contnt}`}>
-                message001
+              <Link
+                to={`detail?id=${m.id}&title=${m.title}&content=${m.contnt}`}
+              >
+                {m.title}
               </Link>
             </li>
           );

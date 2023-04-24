@@ -20,10 +20,14 @@ const route = [
         element: <Message />,
         children: [
           {
-            path: "detail/:id/:title/:content",
+            path: "detail",
             element: <Detail />,
           },
         ],
+      },
+      {
+        path: "",
+        element: <Navigate to="message" />,
       },
     ],
   },
@@ -32,7 +36,7 @@ const route = [
     element: <About />,
   },
   {
-    path: "/home",
+    path: "/",
     element: <Navigate to="/about" />,
   },
 ];
