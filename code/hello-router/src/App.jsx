@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink, Routes, Route, Navigate } from "react-router-dom";
+import { NavLink, Navigate, useRoutes } from "react-router-dom";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -8,6 +8,21 @@ import Head from "./pages/Head";
 import "./App.css";
 
 const App = () => {
+  const element = useRoutes([
+    {
+      path: "/home",
+      element: <Home />,
+    },
+    {
+      path: "/about",
+      element: <About />,
+    },
+    {
+      path: "/home",
+      element: <Navigate to="/about" />,
+    },
+  ]);
+
   function computeClassName({ isActive }) {
     return isActive ? "list-group-item change-route-color" : "list-group-item";
   }
@@ -32,14 +47,7 @@ const App = () => {
           <div className="panel">
             <div className="panel-body">
               {/* 注册路由 */}
-              <Routes>
-                <Route path="/about" element={<About />} />
-                <Route path="/home" element={<Home />} />
-                <Route
-                  path="/"
-                  element={<Navigate to="/about" replace={false} />}
-                />
-              </Routes>
+              {element}
             </div>
           </div>
         </div>
