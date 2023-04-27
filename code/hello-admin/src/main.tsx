@@ -7,7 +7,7 @@ import 'reset-css'
 // UI style
 
 // global style
-import './assets/styles/global.scss'
+import '@/assets/styles/global.scss'
 
 // components sytele
 import App from './App.tsx'
