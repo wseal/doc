@@ -1,0 +1,11 @@
+$color: #bfa;
+
+body {
+  background-color: $color;
+  user-select: none; // forbiden text select
+}
+
+img {
+  // forbide drag image
+  -webkit-user-drag: none;
+}
