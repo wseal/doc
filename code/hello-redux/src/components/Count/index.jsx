@@ -5,12 +5,12 @@ import store from "../../redux/store";
 export default class Count extends Component {
   state = { message: "win" };
 
-  componentDidMount() {
-    // monitor redux value update
-    store.subscribe(() => {
-      this.setState({});
-    });
-  }
+  // componentDidMount() {
+  //   // monitor redux value update
+  //   store.subscribe(() => {
+  //     this.setState({});
+  //   });
+  // }
 
   increment = () => {
     const { value } = this.selectNumber;
