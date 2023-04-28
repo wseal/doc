@@ -1,10 +1,23 @@
-# Getting Started with Create React App
+# Getting Started with Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was demo for how to use redux
 
-## Available Scripts
+## Counter
 
-In the project directory, you can run:
+- delete components's state
+- add redux construct
+  - src/redux
+    - store.js 
+    - count_reduce.js
+  - store
+    - import redux function legacy_createStore
+    - use reduce function to create store instance 
+    - export store install
+  - counter_reduce
+    - create reduce function(preState, action)
+    - reducer function do to works for us, init data and do action
+    - store will trigger the first function call of the reducer
+  - to subscribe the state change,to render component
 
 ### `npm run build`
 
