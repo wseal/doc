@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import store from "../../redux/store";
+import { createIncAction, createDecAction } from "../../redux/count_action";
 
 export default class Count extends Component {
   state = { message: "win" };
@@ -17,14 +18,14 @@ export default class Count extends Component {
     // const { count } = this.state;
     // this.setState({ count: count + value * 1 });
     // 分发事件
-    store.dispatch({ type: "increment", data: value * 1 });
+    store.dispatch(createIncAction(value * 1));
   };
 
   decrement = () => {
     const { value } = this.selectNumber;
     // const { count } = this.state;
     // this.setState({ count: count - value * 1 });
-    store.dispatch({ type: "decrement", data: value * 1 });
+    store.dispatch(createDecAction(value * 1));
   };
 
   incrementIfOdd = () => {
@@ -36,7 +37,7 @@ export default class Count extends Component {
     }
 
     // this.setState({ count: count + value * 1 });
-    store.dispatch({ type: "increment", data: value * 1 });
+    store.dispatch(createIncAction(value * 1));
   };
 
   incrementAsync = () => {
@@ -45,7 +46,7 @@ export default class Count extends Component {
 
     setTimeout(() => {
       // this.setState({ count: count + value * 1 });
-      store.dispatch({ type: "increment", data: value * 1 });
+      store.dispatch(createIncAction(value));
     }, 500);
   };
 
