@@ -1,4 +1,3 @@
-import store from "./store";
 import { Increment, Decrement } from "./const";
 
 export function createIncAction(data) {
@@ -9,9 +8,9 @@ export const createDecAction = (data) => ({ type: Decrement, data });
 
 // async action, value is function, start async task
 export const createAsyncIncAction = (data, time) => {
-  return () => {
+  return (dispatch) => {
     setTimeout(() => {
-      store.dispatch(createIncAction(data));
+      dispatch(createIncAction(data));
     }, time);
   };
 };
