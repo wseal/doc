@@ -1,7 +1,11 @@
 import React, { Component } from "react";
 
 import store from "../../redux/store";
-import { createIncAction, createDecAction } from "../../redux/count_action";
+import {
+  createIncAction,
+  createDecAction,
+  createAsyncIncAction,
+} from "../../redux/count_action";
 
 export default class Count extends Component {
   state = { message: "win" };
@@ -43,11 +47,11 @@ export default class Count extends Component {
   incrementAsync = () => {
     const { value } = this.selectNumber;
     // const { count } = this.state;
-
-    setTimeout(() => {
-      // this.setState({ count: count + value * 1 });
-      store.dispatch(createIncAction(value));
-    }, 500);
+    store.dispatch(createAsyncIncAction(value, 500));
+    // setTimeout(() => {
+    //   // this.setState({ count: count + value * 1 });
+    //   store.dispatch(createIncAction(value));
+    // }, 500);
   };
 
   render() {
