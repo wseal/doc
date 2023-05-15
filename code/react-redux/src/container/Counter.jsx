@@ -24,3 +24,10 @@ function mapDispatchToProps(dispatch) {
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(CountUI);
+
+// 简写形式
+// export default connect((state) => ({ count: state }), {
+//   add: createIncAction,
+//   desc: createDecAction,
+//   asyncAdd: createAsyncIncAction,
+// })(CountUI);
