@@ -5,7 +5,7 @@ import {
   createAsyncIncAction,
   createDecAction,
   createIncAction,
-} from "../redux/count_action";
+} from "../redux/actions/count";
 
 class Count extends Component {
   state = { message: "win" };
@@ -54,7 +54,7 @@ class Count extends Component {
 // 函数返回一个对象
 // 对象的key value 作为props传给ui组件
 function mapStateToProps(state) {
-  return { count: state };
+  return { count: state.count, persons: state.persons };
 }
 
 // 函数返回一个对象，里面是函数，用于操作状态的方法

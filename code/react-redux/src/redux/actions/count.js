@@ -1,4 +1,4 @@
-import { Increment, Decrement } from "./const";
+import { Increment, Decrement } from "../const";
 
 export function createIncAction(data) {
   return { type: Increment, data };
