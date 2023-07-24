@@ -119,3 +119,125 @@ Accurate, don't you think：很准，是不是？
   by elevator and take some gas for my trucks and cabs" instead of requesing, "please, come to my flat by
   lift and take some petrol for my lorries and taxis", you can recognize his American identity, while the
   letter suggests that his is British.
+
+# Englis Pod
+
+- Difficult Customer
+
+  - still working on : not yet completed, nedd more time
+  - complimentary: free
+  - casual : relaxed, not dressy
+  - fancy: nice, expensive,adj. 想象的；奇特的；精选的；昂贵的,vt. 设想；喜爱；想象；自负
+  - supplementary: . 增补（物）；补品；增刊；（书籍的）附录；额外服务费用；补角 v. 增补，补充
+  - grap: get quickly
+  - coke and fries: 可乐和薯条
+  - go with: to choose, pick
+
+- Calling In sick
+
+  - calling in sick: report that you will not go to work because you are sick
+  - make in into work: go to work
+  - sick day: day off because you're sick.
+  - impolite: rude
+  - symptom: a sign, indication
+  - sore: adj 剧烈的，极度的；疼痛的，痛心的；恼火的，发怒的；厉害的，迫切的, n 溃疡，痛处；恨事，伤心事
+  - runny: adj. 流鼻涕的；水分过多的
+  - feverish: adj. 发热的；极度兴奋的
+  - comming down: getting, acquiring, start to get sick, beging get sick
+
+- Hotel Upgrade
+
+  - confirmation: an approval, verifation
+  - mix-up: confusion
+  - overbooked: full
+  - under the name
+  - presidential suite: 总统的;总统选举的;总统制的
+
+- The Office - I need an assistant!
+
+```
+...Like I told you before, we just don't have resource to hire you an assistant.
+
+I understand that, but the fact is we're understaffed.
+
+The timiing is just not right. The economy is bad, and it's too risky to take on new staff.
+
+Yeah, I guess you're right...here's an idea, what if we hire an intern? She would take some
+of the weight off my shoulders
+
+She
+
+Yeah, you know, a recent graduate. She could give me a hand with some of these projects and we
+could keep our costs down.
+
+That sounds reasonable...let me see what I can do.
+
+Tony, I'd like to introduce you to your new assistant.
+
+OK, great!, Let's meet her!
+
+
+```
+
+- understaffed: not enough people to do the job
+- the timing is just not right: it's not a good time now
+- weight off my shoulders: remove pressures or stress
+- give me a hand: help
+- that sound reasonable: it's ok
+- keep our costs down: to try
+- intern: 院实习医生, vt 拘留,关押
+
+- put away: put things away vt. 处理掉(吃, 把...收好, 拿开, 排斥)
+
+# word
+
+- A Hard Trip
+
+  - a fond of:
+  - fare:
+  - stubborn:
+  - give in as usual:
+  - insurance:
+  - sharp bends:s
+  - parcel: 一包
+  - beneath: 在什么下面
+  - went out at midnight: 熄灭
+
+- A Horrible Earthquake
+
+  - wells and canals:
+  - dams: 水坝
+  - railway tracks： 铁轨
+  - pipes in mines burst: 崩裂
+  - let out smelly steam： 泄露臭味气体
+  - huge cracks trapped: 裂缝陷人
+  - an outline of the disaster：
+  - victim's extreme suffering： 灾民的
+  - sympathy:
+  - sincerely: 真诚
+  - ruins：
+  - shelter：
+
+- The Great president
+
+  - coming to
+
+- A Brave Maid
+
+  - Maid：
+  - Dynasty：
+  - reception hall：
+  - rare：
+  - thought highly of
+  - former
+  - the country was at war:
+  - the enemy troops exploded the castle:
+  - Debates:
+  - went on and on:
+  - in order to remove people's doubt
+  - carried out an informal investigation
+  - take the vase apart:
+  - gave away:
+  - cruel trial:
+
+- ## A Fair Competition
