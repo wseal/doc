@@ -286,3 +286,48 @@ stateful生命周期：
     build
 
 ```
+
+- 组件
+
+  - fadeInImage
+  - button - 通过 context 修改样式大小
+  - Icon(Icons.add)
+  - TextField(controller: , decoration: InputDecoration(labelText:"", hinText: "", icon: Icon(Items.add), border: OutlineInputBorder(), onChange:(){}, onSubmit:(){}));
+  - Align
+  - Center
+  - Padding
+
+- 异步操作
+
+  ```
+
+    Future<String> getNetWork() {
+        return Future<String((){
+
+        })
+    }
+
+
+    var future = getNetwork();
+    future.then((String value){
+        print("get result");
+    }).catchError((err){
+        print("catch error....");
+    }).whenComplete((){
+        print("finish.....");
+    });
+  ```
+
+- 渲染
+
+```
+1、自己写一个Widget
+2、某些Widget中会创建RenderObject
+3、每一个widget都会创建一个Element对象
+4.1、ComponentElemet：mount() -> firstBuild -> rebuild -> performBuild -> build ->
+4.2、RenderObjectElement: mount -> _widget.createRenderObject()
+4.3、StatefulElement:
+    * 构造方法中 _state = widget_createState()
+    * _state._widget = widget()
+
+```

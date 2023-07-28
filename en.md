@@ -191,6 +191,52 @@ OK, great!, Let's meet her!
 
 # word
 
+- Different Country Have Different Kinds of English
+
+```
+  Voyages of people from England play an important part in spreading the English language.
+  At present, English is frequently spoken as an official or common language in many countries,
+  Such as American, Singapore, Malaysia and some African countries. All Based on British English,
+  The English spoken in these coutries can be well understood by navtive English speakers.
+  But Actually, these English have been gradually changing in accents, spellings, expressions and
+  the useage of vocabulary.
+
+  Because of this fact, you can make use of the differences to tell which country the foreigners of
+  your block are from. For example, if a boss fluently commands his driver, "Come up straight to my
+  apartment by elevator and take some gas for my trucks and cabs", instead of requesting, "Please come to
+  my flat by lift and take some petorl for my lorries and taxis", you can recoginze his American identity,
+  while the letter suggests that he is British.
+```
+
+- My First Band
+
+```
+I was very sensitive to music. Just dipping into the music books briefly, I could sing or play well. To be honest,
+I always dreamt of becoming a famous folk actor. I was so confident that i never decreased my devotion.
+
+I formed my first bank called "Rolling Frog". At the beginning, we relied on performing on instrument in pubs or
+passer-by to earn extra money in cash. Then we wore false beards to pretend to be the musicians whom people were
+farmiliar with. In addition, we attached humorous acts to our performances and played jokes on each other. soon
+our funny jazz became famous and invitations to perform for broadcast stations began to come. Afterwards, we sorted
+out attractive music and make a record in a studio. A million or so copies were sold and we became millionaires.
+
+It was painful that the band broke up finally. But above all I realized my dream to be a musician.
+
+```
+
+- dip into:
+- folk:
+- false beard:
+- sort out
+- a million or so
+-
+
+- Fall in Love With English
+
+```
+
+```
+
 - A Hard Trip
 
   - a fond of:
@@ -205,6 +251,21 @@ OK, great!, Let's meet her!
 
 - A Horrible Earthquake
 
+  ```
+  Dirty water rose in wells and canals before the earthquake. But no one judged that an earthquake was coming.
+  Suddenly, everything shook. It seems as if the world was at the end. Millions of brick houses and a number of
+  dams were destroyed. Railway tracks became useless bars. Pips in mines burst and let out smelly steam. Huge cracks
+  trapped cyclists everywhere.
+
+  The next day, this event was the headling or main title of all newspapers.
+
+  With the reporters giving an outline of the disaster, the whole nation was shocked by the damage and the victim's
+  extreme suffering. People were moved when they read that the survivors comforted each other by saying "Congratulations!
+  YOu survived!", So they not only expressed their sympathy sincerely, but also organized together to help the victims
+  right away. The injured were rescued and the dead were buried. The frightened survivors were dug out from under the
+  ruins and were offered shelter, fresh water and electricity. Thanks to people's help, the loss was minimized.
+  ```
+
   - wells and canals:
   - dams: 水坝
   - railway tracks： 铁轨
@@ -217,27 +278,227 @@ OK, great!, Let's meet her!
   - sincerely: 真诚
   - ruins：
   - shelter：
+  - bury: 埋葬
+  - burn: 火烧
 
 - The Great president
 
-  - coming to
+  ```
+  As the founder of the republic, the president has many good qualities. Before comming to power, he was a generous
+  lawyer. He was willing to selflessly help everyone who turned to him. He accepted no fee to offer legal guidance and
+  opinions to those who were out of work or uneducated. Later, believing all mankind to be equal, he devoted himself to
+  stopping the unfair anti-black laws. He set up the Black Youth League and was voted to be the leader. However, though
+  he kept peaceful principles without violence and terror, his mean enemies still blew up his house and attacked his relatives
+  and he himself couldn't escape being sentenced to 30 years in prison.
+
+  Not fearing of the prison guard's cruely, he kept active and begged no mercy from them. As a matter of fact, he was always
+  hopeful and never lost hear during the stage even though he was in trouble. Finally, people rewarded him with the leader's
+  position and a gold blanket.
+
+  ```
+
+  - generous: adj. 慷慨的，大方的；宽宏大量的；有雅量的
+  - coming to:
+  - mean: 卑鄙，狭隘
+  - blew up: 炸毁了; 爆炸炸毁; 爆炸
+  - sentence: 宣判，判决；句子，命题；判决，宣判 b
 
 - A Brave Maid
 
-  - Maid：
+  ```
+    A wooden vase from the Ming Dynasty at the entrance of the reception hall amazed everyone. The artists designed it in
+  a rare style and selected valuable jewels to decorate it. People thought highly of its fancy colour of honey and the
+  beautiful paintings on it.
+
+    The vase used to belong to a former castle. But when the country was at war, the enemy tropps exploded the castle. Debates
+  on how the vase survived went on and on. In order to remove people's doubt, a team of no less than 20 people carried out an
+  informal investigation. The evidences they found showed that a maid took the vase apart and asked a sailor to sink it in a
+  local well. She never gave away the secret even under the cruel trial of the enemies who were in search of treasures.
+
+  It is worth giving this brave maid a fortune in return.
+
+  ```
+
+  - Maid：侍候；做新娘的女傧相; . 女仆；少女
   - Dynasty：
-  - reception hall：
+  - reception hall：n. 接待, 接见; 招待会, 欢迎会; 接待处, 服务台, 问询处
   - rare：
-  - thought highly of
+  - thought highly of: 对...高度评价
   - former
   - the country was at war:
   - the enemy troops exploded the castle:
-  - Debates:
+  - Debate: 辩论，争论，讨论; vi. 辩论，争论，讨论
   - went on and on:
-  - in order to remove people's doubt
+  - in order to remove people's doubt: n. 怀疑；疑问；疑惑; v. 怀疑；不信；[古]恐怕；拿不准
   - carried out an informal investigation
   - take the vase apart:
-  - gave away:
-  - cruel trial:
+  - gave away: 让路；撤退；倒塌；失去控制; gave away
+  - cruel trial: j. 审讯的；试验的; trial
 
-- ## A Fair Competition
+  ```
+  trial 指为观察、研究某事物以区别其真伪、优劣或效果等而进行较长时间的试验或试用过程。
+  experiment 多指用科学方法在实验室内进行较系统的操作实验以验证、解释或说明某一理论、定理或某一观点等。
+  test 普通用词，含义广，指用科学方法对某物质进行测试以估价其性质或效能等。
+  try 普通用词，多用于口语或非正式场合，指试一试。
+
+  on trial 在试验中；在受审
+  clinical trial 临床试验；诊治试验
+  trial production 产品试制
+  trial and error 反复试验；尝试错误法
+  trial run 试车；试验；测试运行
+  free trial 免费试用
+  trials and tribulations 艰难困苦；痛苦与磨难
+  trial period 试用期
+  trial order 试订单；试用订货
+  first trial 初审；初次试验
+  trial implementation 试行
+  criminal trial 刑事审判
+  fair trial [法]公平审判
+  field trial （新产品等的）现场试验；（猎狗）实地追猎选拔或测试
+  trial version 试用版
+  civil trial 民事审判
+  time trial 计时赛；计时游；计时测验
+  by trial and error 反复试验，不断摸索
+  stand trial 在受审
+  court trial 法庭审判
+  ```
+
+- A Fair Competition
+
+```
+  Swifter, Higher and Stronger stands for the spirit of the Olympics. But fairness is the basic of this motto. Only when you
+win fairly will you and your homeland deserve the great glory. But nowadays, unlike the ancient honest slave competitors,
+some hopeless athletes who can't bear the pain of training cheat when taking part in games. Medals seem to have magical power
+causing them to cheat, and the prize money has replaced the motto as their only goal.
+
+  So, in the gymnastics event to be held in our city next month, one of the host's responsibilities is to keep competitions fair.
+They advertised on posters outside the statium to promise that every competitor is to have a regular physical examination in a
+gymnasium one after another. No noe can bargain on this. The volunteers in charge will be very strict. It is foolish to cheat
+because they will not be admitted to compete and will even be fined as well
+
+```
+
+- swifter:
+- motto: n. 座右铭，格言；箴言
+- bear
+- medal: n. 勋章，奖章；纪念章
+- gymnastics: n. 体操;体育
+- stadium: (周围有看台的)露天大型运动场, 体育场
+- gymnasium: n. 健身房, 体育馆
+- bargain:n. 交易；契约；特价商品; vi. 讨价还价；成交; vt. 讨价还价；拿…做交易
+- strict: j. 严格的, 严厉的; strict
+- fined:
+
+  ```
+  adj. 美好的，优秀的，优良的，杰出的
+  纤细的
+  细致的；细微的
+  晴朗的，无雨的
+  健康的，舒适的
+  过分夸饰的，炫耀的
+  可怕的，糟透的
+  adv. 很好，不错
+  细微地，精巧地
+  vt. & vi. 转晴；(使)变纯，(使)澄清
+  vt. 使精细，使精炼
+  处…以罚金
+  n. 罚款，罚金
+  ```
+
+- Computers
+
+  ```
+    The goal of early calculating machines was to simplify difficult sums. But with the help of
+  new technology, electronic chips replaced tubes and a revolution of artificial intelligence has
+  arisen. From then on, the appearance of computers totally changed our lives. Then can not only
+  download information from the net when connected by the network or mobile phone singles, but alse
+  solve different types of logical problems. With operators as their coaches, they can even control
+  rockets to explore the moon and instruct androids with the human race's characters to mop floor
+  and watch over your naughty niece. Anyhow, computers are so helpful that they do bring happiness.
+
+    However, computers are easily attacked by viruses. This reality has became a hard-to-deal with
+  problem. As a result, computers are dangerous in a way. So personally, I worry about their universal
+  application in some fields, such as finance.
+  ```
+
+  - arise: v. 发生；产生；出现,起身，起来；起床
+
+  ```
+  arise 书面用词，多用于诗歌或比喻中，具有特殊的修辞色彩。
+  rise 普通用词，指具体的或抽象的事物由低向高移动。
+  raise 及物动词，常用词，多指把某物从低处升到高处，有时作引申用。
+  lift 语气比raise强，指用体力或机械的力举起或抬起某物。
+  ```
+
+  - coache: 教练；旅客车厢；长途公车；四轮大马车; vt. 训练；指导; vi. 作指导；接受辅导；坐马车旅行
+  - tube: n. 管；电子管；隧道；电视机; vt. 把…装管；用管输送；使成管状; vi. [美俚]不及格；乘地铁
+  - race:. 种族，人种；家庭，门弟；属，种; vt. 和…竞赛；使急走，使全速行进；使参加比赛; vi. 比速度，参加竞赛；全速行进
+  - mop:擦干；用拖把拖洗; vi. 用拖把擦洗地板；扮鬼脸; n. 蓬松的头发；拖把；鬼脸
+    ```
+    clean 是这些动词中最常用的词，指将某物或某处的污物等清除掉，弄干净。
+    clear 指清除不要的东西。
+    sweep 指用扫帚等进行清扫，也用作比喻。
+    dust 指将积落在物体表面的尘土抹去、掸掉或擦去以保干净。
+    mop 侧重指用拖把擦洗地板，有时也指擦干净或擦去。
+    wipe 多指用布、纸等物把东西擦净，也指擦掉某物。
+    scrub 指用硬刷、肥皂或水用力地擦洗某物。
+    ```
+
+- Wildlife Protection
+
+```
+  Dinosaurs died out because of an unexpected incident. But wildlife today disappears or is in danger just because humans do harm to it.
+For example, tigers are hunted for fur to make carpets so that they can only live in secure reserves, grassland is destroyed without mercy
+so that dust storms come into being affecting distant cities.
+
+  Last year, scientists saw some monkeys rubbing themselves with a certain kind of insects to protect themselves from firece mosquitoes biting.
+According to the result of the inspection, they found that the insect contains a powerful drup, so local farmers were employed to catch the
+insects. The ending was that the insects disappeared from the whole zone. When told that is was a loss to humans, the farmers burst into laughter
+and responded, "Our real loss is our decreasing income".
+
+  We should appreciate the natural balance and pay more attention to the importance of wildlife protection. Not until we succed in letting wildlife
+live in peace can we smile in relief.
+```
+
+- carpet:
+- secure reserves:
+- rub: 揉搓
+- dust storm:
+- inspection : 检查
+- burst into laughter:
+- succeed in:
+- in relief: . 减轻，解除；救济；安慰
+
+- An Interesting Festival
+
+- Balanced Diet
+
+- Sailing Home
+
+## A Interesting Festival
+
+```
+  The Agricultural Feast takes place after the Independence Day. It's not a world celebration. Only Christians
+in Mexico look forward to it's arrival for it's religious origin.
+
+  Long ago, human's ancestors were bad. They fooled and played tricks on each other and never kept thier word.
+So God turned up and drowned all their crops. Human's starved day and night weeping. In order to gain God's
+forgiveness, a woman poet set off to see God. She admired God and kept apologizing. God was moved. With his
+permission, humans finally had good harvests again. So to wipe sadness and remind themselves of the belief in
+God, people began the festival.
+
+On the festival, people gather in open air, such as playgrounds or parking lots, and energetically have fun with
+each other all night long, as though they were never tired. When a beauty dressed up in lovely clothing reads
+poems in memory of the poet, everyone holds their breath. Then, it is the custom that the bone of a rooster
+head is given to her as an award.
+
+```
+
+- feast: vt. 款待，宴请；享受; n. 节日；筵席，宴会
+- ancestor: n. 祖先, 祖宗; 原型, 先驱
+- turn up: 朝上翻,来到,卷起,找到,出现,发生
+- poet:
+- set off: vt.出发；引起；动身；使爆炸；抵销；分开
+- wipe: t. 擦；涂上；消除;vi. 擦；打; n. 擦拭；用力打
+- energetically: 精力充沛地;积极地
+-
