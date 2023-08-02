@@ -502,3 +502,174 @@ head is given to her as an award.
 - wipe: t. 擦；涂上；消除;vi. 擦；打; n. 擦拭；用力打
 - energetically: 精力充沛地;积极地
 -
+
+## Balanced Diet
+
+```
+  Wang earned his living by running a barbecue restaurant, which served delicious bacon, fried chicken breast and
+mutton roasted with pepper and garlic. But his food and discount attracted fewer and fewer customers. Finally, he
+was in debt. Yang's slimming restaurant served fresh peans, carrots, eggplants and raw cucumbers with vinegar. As
+the hostess, she said fibres benefited customer's digestion the most. In ordr not to let Yang get away with telling
+lies, Wang spied on Yang dispite her glare. But he was surprised that she was losing her customers, too.
+
+  Curiosity drove Wang to consult an expert. The expert sighed and said, "Both of your menus have weakness and limited
+strength. Your customers put on weight too easily, while Yong's lose weight to quickly. So Wang cut down the fat of your
+food and increase vegetables and fruits, like nuts, beans, mushroom, peaches and lemons. You ought to combine the two
+menus and provide a balanced diet."
+
+  Before long, wang won his customers back.
+
+```
+
+- breast: 胸部；胸怀；心情 vt. 以胸对着；与…搏斗
+- mutton: /ˈmʌtn/ 绵羊；羊肉
+- pepper
+- sigh: i. 叹息，叹气
+- vinegar: /ˈvɪnɪɡər/ 醋
+- fibres: /'faibə/. 纤维；[植]须根
+- digestion: /daɪˈdʒestʃən/ 消化能力; 消化;领悟
+- glare: /ɡler/ 怒目而视 vi. 发强光; n. 强光;怒视, 瞪眼;炫耀, 张扬
+-
+
+## Sailing Home
+
+```
+  This novel was about an unbelievable but genuine adventure. It's author was a black businessman who was brought up in
+America. In 1956, he visited Africa, his birthplace. One day, when he was wandering on the pavement near the bay enjoying
+the sea scenes, he lost his money and passport that he kept in an envelope. So he went to the embassy to seek help, but the
+embassador with rude manners didn't permit his staff to help though he bowed to him. Staring at his impatient face, he
+understood that it was the fault of his skin color that accounted for their rejection. So he decided to take a chance to sail
+on a small boat home.
+
+  He met a large amount of difficulty but was never stopped. On the contrary, difficulty pushed him to go ahead harder. Therr
+months later, he was spotted by a ship by accident. He was in rags indeed. A maid even screamed when bringing him a steak and
+pineapple dessert. Aboard, he earned his passage by working  as a barber and got home finally. As for the name of his novel,
+he couldn't think of a better one than the phrase "Go Ahead".
+```
+
+- genuine: /ˈdʒenjuɪn/ adj. 真实的，真正的；诚恳的
+- genius: /ˈdʒiːniəs/
+- wander: vi. 徘徊；漫步；离题；迷路; vt. 游荡，漫游
+- embassy: /ˈembəsi/
+- embassador: . 大使,使节
+- envelope: /ˈenvəloʊp/ n. 信封，封皮；[生]包膜；[天]包层；[数]包迹
+- staff: n. 全体职员；教职员; 参谋，幕僚
+
+```
+cane /keɪn/ 多指用藤或竹制成的细长的手杖。
+stick 普通用词，指木制的细长手杖。
+staff 多指走路爬山时用作支持或防卫使用的长木棒
+```
+
+- on the contrary: /ˈkɑːntreri/ . 相反的, 相违的; n. 相反, 反面, 对立面
+- spot:
+  n. 斑点, 污点
+  地点, 场所
+  少量
+  vt. & vi. 弄上污渍
+  vt. 看出, 认出
+
+- rag:
+  n. 破布；碎屑
+  vt. 戏弄；责骂
+  vi. 变破碎；穿着讲究
+
+- passage: 通路；走廊；一段（文章）
+- aboard: /əˈbɔːrd/ adv. 在火车上；在飞机上；在船上; prep. 在…上
+- working as a barber: . 理发师
+-
+
+## Explore MKII
+
+```
+  MKII, a planet billions of kilometers away, is the origin of life in many religions.
+Physicists have proved the theory that it's gentle climate and the pull of it's gravity
+are similar to the earth's. And astronomers have found that oxygen atoms and carbon dioxide,
+which are fundamental to life, exist in it's atmosphere through satellites.
+Cheered up by this news, biologists, in their turn, began
+to do some research to remove people's puzzles. Now that there are some suitable conditions,
+does life really exist on this globe? Does they multiply by laying eggs or giving birth to babies?
+
+Last month, a spaceship was sent there. It's a pit that this mission failed. Unlike the earth, MKII
+is a much younger planet. Thus, masses of harmful acid clouds float everywhere causing violent chain
+reactions to break out. These clouds not only blocked out the pilot's sight, but also damaged the engin
+system. Luckily, the pilots watched out carefully and prevented the spaceship from crashing in time.
+```
+
+- planet: /ˈplænɪt/
+- dioxide: /daɪˈɑːksaɪd/ dioxide
+- astronomer:
+- globe: 球体；球状物; 地球，世界;
+- acid:/ˈæsɪd/ j. 酸味的, 酸的; 尖刻的;酸味物质
+- break out:突然发生, 爆发
+- multiply: vt. & vi. 乘, (使)相乘; (使)增加;(使)繁殖
+
+## A Journey across Canada
+
+```
+  After a quiz last autumn, Kuang crossed the continent eastward to Toronto to visit his schoolmate, the
+distance measuring approximately 5000 kilometers.
+
+  His train started from Vancouver, a city surrounded by mountains. After confirming his baggage was aboard
+the train, Kuang settled down in his seat. Having a gift for communication, he started chatting with another
+passenger within 5 minutes. Their topics included the Canadian traditions, the Prime Minister, the mixture of
+races and the terrifying Great Fall. After a nice buffet at noon, he was pleased to find that the scenery was
+impressive. He saw beautiful harbours in the distance, wealthy urban areas and maple forest that covered thousands
+of acres. He even managed to catch sight of an eagle flying upward over bushes.
+
+  Kuang reached Toronto which lies slightly near the border at a misty dawn. There was frost and broad downtown streets
+were very quiet. Though it was early, Kuang phoned his schoolmate in a booth nearby at once rather than waiting for
+him to come. They had a good time together.
+```
+
+- quiz: 问答比赛(游戏); quiz
+- continent: 洲, 大陆; continent
+- eastward: 向东方的；朝东的; 东部；东方
+- approximately: 近似地,大约
+
+  ```
+  almost 指在程度上相差很小，差不多。
+  nearly 与almost含义基本相同，侧重指数量、时间或空间上的接近。
+  about 常可分almost和nearly换用，但about用于表示时间、数量的“大约”时，实际数量可能多也可能少。
+  approximately 多用于书面语，指精确度接近某个标准以致误差可忽略不计。
+  around 多用于非正式场合，常见于美国英语。
+  roughly 指按精略估计，常代替about。
+  ```
+
+- Vancouver: /vænˈkuvɚ/
+- mixture: 混合；混合物；混合剂
+
+  ```
+  mixture 普通用词，指不同类种、性质不同的事物的混合。
+  blend 侧重混合成分之间的类似和整个混合物的统一性。
+  combination 指相混元素的紧密结合，但不一定的是融合。
+  compound 特指两种或多种元素构成的化合物。
+  composite 通常可与compound换用，但倾向于指人为的或偶然的结合或凑合。
+  ```
+
+- race:
+
+  ```
+  . 种族，人种；家庭，门弟；属，种
+  vt. 和…竞赛；使急走，使全速行进；使参加比赛
+  vi. 比速度，参加竞赛；全速行进
+  ```
+
+- terrifying:
+- Fall:
+- Autumn: 秋天；成熟期；渐衰期，凋落期;秋天的，秋季的
+- buffet: /bəˈfeɪ/
+
+  ```
+  n. 打击；小卖部；猛烈冲击；自助餐
+  vt. 与…搏斗；连续猛击
+  vi. 斗争；奋勇前进
+  adj. 自助的；自助餐的
+  ```
+
+- maple: /ˈmeɪpl/ n. 槭树, 枫树
+- acres: /'eikə/ 英亩；土地，地产
+- misty: /ˈmɪsti/ j. 模糊的；有雾的
+- frost: /frɔːst/ vt. & vi. (使)结冰霜; vt. 冻坏; 霜冻, 严寒天气
+- booth: 货摊；公用电话亭
+-
